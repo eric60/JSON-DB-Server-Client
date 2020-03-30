@@ -1,4 +1,4 @@
-const url = "https://serene-escarpment-90518.herokuapp.com/";
+const url = "https://serene-escarpment-90518.herokuapp.com";
 
 function counterCreate() {
     console.log('trigger');
